@@ -2,7 +2,8 @@
 
 Aclaración:
 Las partes se corregirán de manera secuencial (ascendentemente). Si están bien todos los puntos de una parte, habilita la corrección de la parte posterior.
-Se debe crear un archivo por cada entidad de TypeScript. Todos los métodos deben estar declarados dentro de clases. Toda comunicación con el backend se realizará con AJAX. Todo el pasaje de datos se hará con JSON.
+Se debe crear un archivo por cada entidad de TypeScript. Todos los métodos deben estar declarados dentro de clases.
+Toda comunicación con el backend se realizará con AJAX. Todo el pasaje de datos se hará con JSON.
 Las vistas (páginas .php o .html) se entregan por parte del profesor.
 Se deben respetar los nombres de los archivos, de las clases, de los métodos y de los parámetros de las peticiones.
 Todas las referencias a archivos y/o recursos, deben estar de manera relativa.
