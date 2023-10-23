@@ -12,10 +12,10 @@ El backend lo debe proveer el alumno (respetando nombres y tipos de parámetros)
 ## Parte 1 FRONTEND – HTML5 y TypeScript (hasta 5)
 Crear la siguiente clase en **Typescript** en el namespace **Apellido** (del alumno):
 - **Auto**, posee como atributos protegidos:
-- patente(cadena)
-- marca(cadena)
-- color(cadena)
-- precio(flotante)
+ - patente(cadena)
+ - marca(cadena)
+ - color(cadena)
+ - precio(flotante)
  
 Un constructor (que inicialice los atributos), un método de instancia **toJSON()**, que retornará los datos de la instancia (en una cadena con formato **JSON**).
 
