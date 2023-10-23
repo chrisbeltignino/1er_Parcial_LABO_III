@@ -16,7 +16,7 @@ Crear la siguiente clase en **Typescript** en el namespace **Apellido** (del alu
 - marca(cadena)
 - color(cadena)
 - precio(flotante)
-- 
+ 
 Un constructor (que inicialice los atributos), un método de instancia **toJSON()**, que retornará los datos de la instancia (en una cadena con formato **JSON**).
 
 Crear en **TypeScript** la clase Manejadora (en el namespace PrimerParcial) que posea los siguientes métodos y funcionalidades:
